@@ -23,7 +23,6 @@ Keywords: [ gantt, javascript gantt, typescript gantt, project manager, js gantt
 </p>
 <br>
 <br />
-<h3 align="center">And always remember, to leave a <a href="https://github.com/neuronetio/gantt-schedule-timeline-calendar">star :star:</a></h3>
 <br />
 
 <h2 align="center">FEATURES</h2>
@@ -65,22 +64,8 @@ You can control almost everything. You can change html structure, stylize every 
 
 <h2 align="center">EXAMPLES</h2>
 
-To run examples type
-
-```bash
-git clone https://github.com/neuronetio/gantt-schedule-timeline-calendar.git
-cd gantt-schedule-timeline-calendar
-npm i
-npm run examples
-```
-
-You can checkout [examples folder](https://github.com/neuronetio/gantt-schedule-timeline-calendar/tree/master/examples) too.
 
 <h2 align="center">REACT, ANGULAR AND VUE EXAMPLES</h2>
-
-- [react gantt-schedule-timeline-calendar usage example](https://github.com/neuronetio/react-gantt-schedule-timeline-calendar-example)
-- [angular gantt-schedule-timeline-calendar usage example](https://github.com/neuronetio/angular-gantt-schedule-timeline-calendar-example)
-- [vue gantt-schedule-timeline-calendar usage example](https://github.com/neuronetio/vue-gantt-schedule-timeline-calendar-example)
 
 <h2 align="center">SCREENSHOTS</h2>
 
@@ -115,13 +100,10 @@ or
 
 <h2 align="center">NEED HELP?</h2>
 
-Let us know (we don't bite) neuronet.io@gmail.com
+Let us know (we don't bite) sse.jasonlee@gmail.com
 
 <h2 align="center">LICENSE</h2>
 
-[NEURONET Free License](https://github.com/neuronetio/gantt-schedule-timeline-calendar/blob/master/LICENSE)
-
-You can generate [free license key here](https://gstc.neuronet.io/free-key).
 You can use this software for free in non-commercial projects that are under the MIT / ISC license and whose full source code is available on the Internet (backend and frontend).
 In commercial or closed source projects, you can use it for free for two months only.
 If you need a full commercial license with all plugins included, please visit [pricing page](https://gantt-schedule-timeline-calendar.neuronet.io/pricing).
