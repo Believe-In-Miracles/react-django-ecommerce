@@ -7,7 +7,7 @@
 </p>
 
 <h3>gantt-schedule-timeline-calendar is all-in-one component that you can use in different scenarios.</h3>
-Keywords: [ gantt, javascript gantt, typescript gantt, project manager, js gantt, js scheduler, js timeline, javascript timeline, javascript schedule, js scheduler, javascript calendar ]
+Keywords: [ gantt, javascript gantt, typescript gantt, project manager, js gantt, js scheduler, js timeline, javascript timeline, javascript schedule, js scheduler, javascript calendar ]  
 <br/><br/><br/>
 <p align="center">
   <img src="https://snyk.io/test/github/neuronetio/gantt-schedule-timeline-calendar/badge.svg">
